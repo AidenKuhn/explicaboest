@@ -1,0 +1,30 @@
+{
+  "name": "explicaboest",
+  "version": "1.0.0",
+  "description": "\"Tool to display a CLI-Table for scenario-eth-gas-reporter json output\"",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AidenKuhn/explicaboest.git"
+  },
+  "keywords": [
+    "illo",
+    "recusandae",
+    "aut",
+    "quas",
+    "nobis",
+    "alias",
+    "implement",
+    "variant"
+  ],
+  "author": "GunnerMonahan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AidenKuhn/explicaboest.git/issues"
+  },
+  "homepage": "https://github.com/AidenKuhn/explicaboest.git",
+  "dependencies": {
+    "cli-table3": "^0.5.1",
+    "colors": "^1.4.0"
+  }
+}
